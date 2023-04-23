@@ -22,6 +22,6 @@
     "forta-agent": "^0.0.33"
   },
   "devDependencies": {
-    "nodemon": "^2.0.8"
+    "nodemon": "^2.0.22"
   }
 }
